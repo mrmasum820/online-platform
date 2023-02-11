@@ -74,15 +74,15 @@ const Footer = () => {
             <ul>
               <li>
                 <i className='fa fa-map'></i>
-                203 Fake St. Mountain View, San Francisco, California, USA
+                Sadhinata Sarani, Uttar Badda, Dhaka - 1212
               </li>
               <li>
                 <i className='fa fa-phone-alt'></i>
-                +2 392 3929 210
+                +880 1303 151782
               </li>
               <li>
                 <i className='fa fa-paper-plane'></i>
-                info@yourdomain.com
+                techmrmasum@gmail.com
               </li>
             </ul>
           </div>
@@ -90,7 +90,7 @@ const Footer = () => {
       </footer>
       <div className='legal'>
         <p>
-          Copyright ©2023 All rights reserved | This template is made with <i className='fa fa-heart'></i> by MR Masum
+          Copyright ©2023 All rights reserved <i className='fa fa-heart'></i> by MR Masum
         </p>
       </div>
     </>
